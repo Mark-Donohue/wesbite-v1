@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `personal-website`,
-    siteUrl: `https://www.yourdomain.tld`,
+    title: `mark-donohue-personal-website`,
+    siteUrl: `https://www.mark-donohue.com`,
   },
   plugins: [],
 }
