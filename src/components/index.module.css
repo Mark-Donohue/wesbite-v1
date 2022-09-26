@@ -1,0 +1,15 @@
+.container {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.title {
+  color: #167BFF;
+  font-size: 3rem;
+}
+
+.paragraph {
+  color: black;
+}
