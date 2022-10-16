@@ -8,8 +8,8 @@ const IndexPage = () => {
     <div className={container}>
       <main>
         <h1 className={title}>Hi, I'm Mark Donohue.</h1>
-        <p className={paragraph}>I'm still working on building my website at the moment. 
-          In the meantime, please feel free to reach out to me at <a href="mailto: markbdonohue@gmail.com">markbdonohue@gmail.com</a>.</p>
+        <p className={paragraph}>I'm still working on building this website at the moment. 
+          In the meantime, please feel free to reach out at <a href="mailto: markbdonohue@gmail.com">markbdonohue@gmail.com</a>.</p>
       </main>
     </div>
   )
