@@ -4,4 +4,4 @@ module.exports = {
     siteUrl: `https://www.mark-donohue.com`,
   },
   plugins: [],
-}
+};
